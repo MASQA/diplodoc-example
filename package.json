@@ -43,7 +43,7 @@
     "open": "^8.4.2",
     "parse5": "^7.1.2",
     "parse5-utils": "^2.0.0",
-    "serve-static": "^1.15.0"
-  },
-  "devDependencies": {}
+    "serve-static": "^1.15.0",
+    "yfm": "^0.2.0"
+  }
 }

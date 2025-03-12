@@ -1,0 +1,7 @@
+title: Тесты для учебных сайтов
+href: index.yaml
+items: 
+  - name: Swag Labs 
+    include:
+      path: swag-section/toc.yaml
+      mode: link

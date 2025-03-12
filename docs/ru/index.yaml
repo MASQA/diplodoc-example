@@ -1,0 +1,12 @@
+title: Тесты для учебных сайтов
+description: Тесты для сайтов  с ресурса https://techbeamers.com/websites-to-practice-selenium-webdriver-online/
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Первый раздел
+  description: Swag Labs
+  href: swag-section/content.md
+- title: Второй раздел
+  description: Не заполнено
+  href: path/to/file.md

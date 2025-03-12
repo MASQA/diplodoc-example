@@ -38,3 +38,12 @@ wait for the development server startup
 enjoy developing documentation with html result preview in split view
 
 ![codespaces project](images/codespaces-project.jpeg)
+
+
+My way:
+1. Start on diplodoc
+2. Clone repo from github on local machine
+3. npm i yfm
+4. npm i @diplodoc/cli -g
+5. npm start и переход в http://127.0.0.1:8000/en/
+6. 
