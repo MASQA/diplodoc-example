@@ -19,6 +19,9 @@
   ОР:
     1. Вход в магазине не происходит
     2. Появляется предупреждеине Epic sadface: Sorry, this user has been locked out.
+    ![alt-текст](_images/warning.png "скрин варнинга")
+
+
 
 {% endlist %}
 

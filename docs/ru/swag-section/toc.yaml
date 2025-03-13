@@ -1,5 +1,7 @@
-title: Sub-section Example TOC
+title: Swag-section TOC
 href: index.yaml
 items:
   - name: Тесты логин формы
     href: content.md
+  - name: Тесты корзины
+    href: cart.md
